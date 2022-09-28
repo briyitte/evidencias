@@ -1,0 +1,7 @@
+{
+    "type":"module",
+    "dependencias":{
+        "node-fetch":"^3.3.1"
+    }
+    
+}
